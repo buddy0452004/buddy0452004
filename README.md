@@ -29,8 +29,7 @@ class Rahul:
 ### github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buddy0452004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddy0452004&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com?user=buddy0452004&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,7 +49,6 @@ class Rahul:
 
 - **[YOGA-TUNE](https://github.com/buddy0452004/YOGA-TUNE)** — Flask + SQLite wellness app pairing yoga with music
 - **deepfake-detector** — ML pipeline for video classification (collab)
-- **overlay-layer-api** — layered drawing architecture prototype for matplotlib (~109 FPS)
 
 ---
 
