@@ -1,42 +1,26 @@
-<h1 align="center">rahul monani</h1>
+# hi, i'm rahul monani
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=AAAAAA&center=true&vCenter=true&width=400&lines=ai+%2F+ml;backend;building+things+that+matter" />
-</p>
+final-year CSE · ISRO intern · building things that shouldn't work but do
 
----
+```python
+class Rahul:
+    intern = "ISRO"
+    stack  = ["Python", "matplotlib", "Flask", "sklearn", "NumPy"]
+    goal   = "build things that shouldn't work but do"
+```
 
-## about
+## open-source
+| repo | status | note |
+|------|--------|------|
+| matplotlib #31365 | open | gallery thumbnails |
+| matplotlib ~#31410 | open | contour fix |
+| optuna #6494 | **merged** | f-strings, credited in v4.8.0 |
+| pgmpy #2944 | open | ValueError validation |
 
-i build things in ai/ml + backend  
-focused on performance, systems, and real problems  
-
----
-
-## work
-
-→ improved system performance by **106×**  
-→ working on scalable backend + ml systems  
-→ contributing to open source  
-
----
-
-## stack
-
-python • c++ • flask • mysql  
-machine learning • matplotlib  
+## projects
+- **YOGA-TUNE** — Flask + SQLite wellness app
+- **deepfake-detector** — ML pipeline (collab)
+- **overlay-layer-api** — layered drawing prototype for matplotlib (~109 FPS)
 
 ---
-
-## now
-
-building  
-learning  
-improving  
-
----
-
-## contact
-
-linkedin → https://linkedin.com/in/YOUR_LINK  
-mail → rahulmonai2004@gmail.com
+*buddy0452004 · github.com/buddy0452004*
