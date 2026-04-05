@@ -8,19 +8,17 @@
 
 </div>
 
-<img align="right" alt="coding" width="380" src="https://camo.githubusercontent.com/5046cb083418fd1922b7f5990e594c3bb06f5d87e5516cd8839ae0aa48b3aec4/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162623239386366653630352f313534313538303631313632342d5445363451474b524a4738535741495553374e462f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a506f6744354978485858664e38787958736a372f70726f6772616d6d696e672e676966" />
-
 ## 🧑‍💻 about me
 
-```python
-class Rahul:
-    intern     = "ISRO 🚀"
-    university = "Indus University, Ahmedabad"
-    stack      = ["Python", "matplotlib", "Flask", "sklearn", "NumPy"]
-    interests  = ["open-source", "ML", "data viz", "football ⚽"]
-    goal       = "build things that shouldn't work but do 🔥"
-    fun_fact   = "I have a PR merged in Optuna v4.8.0 👀"
-```
+<img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
+
+> **Rahul Monani** · CSE final year · ISRO intern 🚀
+>
+> Open-source contributor to `matplotlib`, `optuna`, `pgmpy`
+>
+> Into ML, data viz, football ⚽, and shipping PRs that actually get merged
+>
+> Fun fact: got a PR credited in **Optuna v4.8.0** 👀
 
 <br clear="right"/>
 
@@ -49,12 +47,6 @@ class Rahul:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=buddy0452004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddy0452004&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-<br/><br/>
-
 <img src="https://streak-stats.demolab.com?user=buddy0452004&theme=tokyonight&hide_border=true" />
 
 </div>
@@ -78,13 +70,11 @@ class Rahul:
 
 ## 🚀 projects
 
-<div align="center">
+**[YOGA-TUNE](https://github.com/buddy0452004/YOGA-TUNE)** — Flask · SQLite · Python
+> wellness app pairing yoga sessions with music
 
-[![YOGA-TUNE](https://github-readme-stats.vercel.app/api/pin/?username=buddy0452004&repo=YOGA-TUNE&theme=tokyonight&hide_border=true)](https://github.com/buddy0452004/YOGA-TUNE)
-
-</div>
-
-**deepfake-detector** — ML pipeline for video deepfake classification · Python · built with a friend 🤝
+**deepfake-detector** — Python · ML
+> video deepfake classification pipeline · built with a friend 🤝
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
