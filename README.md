@@ -1,6 +1,8 @@
-# Rahul Monani
+<div align="center">
 
-**final-year CSE · ISRO intern · building things that shouldn't work but do**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6e40c9&center=true&vCenter=true&width=600&lines=hi%2C+i'm+Rahul+Monani+%F0%9F%91%8B;final-year+CSE+%C2%B7+ISRO+intern;building+things+that+shouldn't+work+but+do" alt="Typing SVG" />
+
+</div>
 
 ---
 
@@ -15,13 +17,11 @@ class Rahul:
 
 ### tech stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![matplotlib](https://img.shields.io/badge/matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,git,sqlite,sklearn&theme=light" />
+
+</div>
 
 ---
 
@@ -59,4 +59,8 @@ Python · ML — video classification pipeline built with a friend
 
 ---
 
-![views](https://komarev.com/ghpvc/?username=buddy0452004&style=flat-square&label=profile+views)
+<div align="center">
+
+![views](https://komarev.com/ghpvc/?username=buddy0452004&style=flat-square&color=6e40c9&label=profile+views)
+
+</div>
