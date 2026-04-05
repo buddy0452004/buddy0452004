@@ -12,13 +12,13 @@
 
 <img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
-> **Rahul Monani** · CSE final year · ISRO intern 🚀
->
-> Open-source contributor to `matplotlib`, `optuna`, `pgmpy`
->
-> Into ML, data viz, football ⚽, and shipping PRs that actually get merged
->
-> Fun fact: got a PR credited in **Optuna v4.8.0** 👀
+**Rahul Monani** · CSE final year · ISRO intern 🚀
+
+Open-source contributor to `matplotlib`, `optuna`, `pgmpy`
+
+Into ML, data viz, football ⚽, and shipping PRs that actually get merged
+
+Fun fact: got a PR credited in **Optuna v4.8.0** 👀
 
 <br clear="right"/>
 
