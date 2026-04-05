@@ -1,6 +1,6 @@
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C75B&center=true&vCenter=true&width=500&lines=hi%2C+i'm+rahul+monani;final-year+CSE+%C2%B7+ISRO+intern;building+things+that+shouldn't+work+but+do" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C75B&center=true&vCenter=true&width=600&lines=hi%2C+i'm+rahul+monani;final-year+CSE+%C2%B7+ISRO+intern;building+things+that+shouldn't+work+but+do" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,8 +29,8 @@ class Rahul:
 ### github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buddy0452004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=F7C75B&icon_color=F7C75B&text_color=c9d1d9&rank_icon=github" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddy0452004&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1a2e&title_color=F7C75B&text_color=c9d1d9" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=buddy0452004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=buddy0452004&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ---
