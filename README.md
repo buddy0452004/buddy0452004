@@ -1,7 +1,6 @@
-<!-- Typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7C75B&center=true&vCenter=true&width=600&lines=hi%2C+i'm+rahul+monani;final-year+CSE+%C2%B7+ISRO+intern;building+things+that+shouldn't+work+but+do" alt="Typing SVG" />
-</p>
+# hi, i'm rahul monani 👋
+
+**final-year CSE · ISRO intern · building things that shouldn't work but do**
 
 ---
 
@@ -26,14 +25,6 @@ class Rahul:
 
 ---
 
-### github stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=buddy0452004&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-</p>
-
----
-
 ### open-source
 
 | repo | status | note |
@@ -54,13 +45,11 @@ class Rahul:
 
 ### contribution snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buddy0452004/buddy0452004/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buddy0452004/buddy0452004/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/buddy0452004/buddy0452004/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/buddy0452004/buddy0452004/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/buddy0452004/buddy0452004/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/buddy0452004/buddy0452004/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ---
 
