@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=hey+there+%F0%9F%91%8B+i'm+Rahul+Monani;final-year+CSE+%40+Indus+University;ISRO+intern+%F0%9F%9A%80;open-source+contributor;building+things+that+shouldn't+work+but+do+%F0%9F%94%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=0969DA&center=true&vCenter=true&width=700&lines=hey+there+%F0%9F%91%8B+i'm+Rahul+Monani;final-year+CSE+%C2%B7+ISRO+intern+%F0%9F%9A%80;open-source+contributor;building+things+that+shouldn't+work+but+do+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
@@ -12,7 +12,7 @@
 
 <img align="right" alt="coding" width="360" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" />
 
-**Rahul Monani** · CSE final year · ISRO intern 🚀
+**Rahul Monani** · final-year CSE · ISRO intern 🚀
 
 Open-source contributor to `matplotlib`, `optuna`, `pgmpy`
 
