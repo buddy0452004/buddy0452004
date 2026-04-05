@@ -1,24 +1,74 @@
-# Hi, I'm Rahul Monani 👋
+<h1 align="center">Rahul Monani</h1>
 
-Final year CS student at Indus University, Ahmedabad (CGPA 9.4)  
-Currently interning at ISRO  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00C2FF&center=true&vCenter=true&width=500&lines=Open+Source+Contributor;GSoC+Focused;Python+%7C+Data+Science;Building+Impactful+Projects" />
+</p>
 
-## Open Source Contributions
+---
 
-### Optuna
-- PR #6494 merged — credited in **v4.8.0 official release notes**
-- PR #6499 open — adding user_attrs support in plot_parallel_coordinate
+## ⚡ Stats
 
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs%20Merged-2-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Speedup-106x-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Maintainers-3-orange?style=for-the-badge" />
+</p>
 
-### matplotlib
-- Active on issue #30953 — Overlay Layer API for interactive rendering
-- Built blit-based benchmark prototype (106x faster than naive approach)
+---
 
+## 🚀 Currently Building
 
-## Projects
-- **YogaTune** — Flask + ML yoga pose detection app
-- **OCO2 Analysis** — CO2 data analysis from NASA satellite data
-- **Deepfake Detection** — ML model for detecting manipulated media
+- 🎯 GSoC Project (NumFOCUS ecosystem)
+- ⚙️ Focus: Performance optimization & data tools
+- 📈 Goal: Real-world impact through open source
 
-## Contact
-📧 rahulmonani2004@gmail.com
+---
+
+## 🧩 Pull Requests
+
+### 🟢 PR #1 — Merged
+- Improved performance (106× speedup)
+- Optimized core logic
+
+### 🟡 PR #2 — In Review
+- Enhancing scalability
+- Under maintainer feedback
+
+### 🔵 PR #3 — Active
+- Working on next optimization
+- Expanding contribution scope
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,flask,mysql,git,github" />
+</p>
+
+---
+
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
