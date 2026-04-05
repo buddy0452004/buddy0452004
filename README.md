@@ -24,15 +24,15 @@
 
 ## 🧩 Notable Work
 
-**PR #1 — Merged**
+### 🟢 PR #1 — Merged
 - Achieved **106× performance improvement**
 - Optimized core processing logic  
 
-**PR #2 — In Review**
+### 🟡 PR #2 — In Review
 - Improving scalability  
 - Under maintainer feedback  
 
-**PR #3 — Active**
+### 🔵 PR #3 — Active
 - Working on next optimization layer  
 - Expanding contribution scope  
 
@@ -41,7 +41,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=buddy0452004&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=buddy0452004" />
 </p>
 
 ---
