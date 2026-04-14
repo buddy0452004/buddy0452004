@@ -60,7 +60,7 @@ Fun fact: got a PR credited in **Optuna v4.8.0** 👀
 | org | PR | what | status |
 |-----|----|------|--------|
 | `matplotlib` | #31365 | gallery thumbnails for user_interfaces | 🟡 open |
-| `matplotlib` | #31410 | contour rendering fix | 🟡 open |
+| `matplotlib` | #31431 | contour rendering fix | 🟡 open |
 | `optuna` | #6494 | f-string modernization | ✅ merged · v4.8.0 |
 | `pgmpy` | #2944 | ValueError validation for filter tags | 🟡 open |
 
