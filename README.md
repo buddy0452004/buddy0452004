@@ -57,12 +57,16 @@ Fun fact: got a PR credited in **Optuna v4.8.0** 👀
 
 <div align="center">
 
-| org | PR | what | status |
-|-----|----|------|--------|
-| `matplotlib` | #31365 | gallery thumbnails for user_interfaces | 🟡 open |
-| `matplotlib` | #31410 | contour rendering fix | 🟡 open |
-| `optuna` | #6494 | f-string modernization | ✅ merged · v4.8.0 |
-| `pgmpy` | #2944 | ValueError validation for filter tags | 🟡 open |
+## 🔧 open-source contributions
+
+| org | type | link | what | status |
+| --- | --- | --- | --- | --- |
+| `matplotlib` | PR | #31431 | guard against already-removed labels in ContourSet.remove() | ✅ merged · v3.11.0 |
+| `matplotlib` | PR | #31365 | gallery thumbnails for user_interfaces examples | 🟡 open |
+| `matplotlib` | issue | #31493 | contourf silently produces nonsense levels when Z is constant | 🟡 open |
+| `matplotlib` | issue | #31504 | twinx() and twiny() crash with cryptic errors on 3D axes | 🟡 open |
+| `optuna` | PR | #6494 | f-string modernization | ✅ merged · v4.8.0 |
+| `pgmpy` | PR | #2944 | ValueError validation for invalid filter tags | 🟡 open |
 
 </div>
 
