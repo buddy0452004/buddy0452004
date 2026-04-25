@@ -60,9 +60,10 @@ Fun fact: got a PR credited in **Optuna v4.8.0** 👀
 ## 🔧 open-source contributions
 
 | org | type | link | what | status |
-| --- | --- | --- | --- | --- |
+|---|---|---|---|---|
 | `matplotlib` | PR | #31431 | guard against already-removed labels in ContourSet.remove() | ✅ merged · v3.11.0 |
-| `matplotlib` | PR | #31365 | gallery thumbnails for user_interfaces examples | 🟡 open |
+| `matplotlib` | PR | #31365 | gallery thumbnails for user_interfaces examples | ✅ merged |
+| `matplotlib` | PR | #31416 | privatize Formatter attributes in ticker.py (co-contributor) | ✅ merged · v3.11.0 |
 | `matplotlib` | issue | #31493 | contourf silently produces nonsense levels when Z is constant | 🟡 open |
 | `matplotlib` | issue | #31523 | twinx() and twiny() crash with cryptic errors on 3D axes | ✅ merged · v3.10.8 |
 | `optuna` | PR | #6494 | f-string modernization | ✅ merged · v4.8.0 |
